@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
+title: 'Markup: Title with Special&nbsp;---&nbsp;Characters'
 categories:
-  - Markup
+- Markup
 tags:
-  - html
-  - markup
-  - post
-  - title
-last_modified_at: 2012-01-31T12:23:27-05:00
----
+- html
+- markup
+- post
+- title
+last_modified_at: 2012-01-31T17:23:27.000+00:00
 
+---
 Putting special characters in the title should have no adverse effect on the layout or functionality.
 
 The title above has none-breaking spaces before and after the m-dash.
