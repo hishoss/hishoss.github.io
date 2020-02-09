@@ -15,7 +15,7 @@ baseurl:          '/hishoss.github.io'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Hisham Osman
+  name:           'Hisham Osman'
   url:            https://twitter.com/hishoss
 
 paginate:         5
