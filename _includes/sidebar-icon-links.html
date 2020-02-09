@@ -1,22 +1,16 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
+  {% if site.github.repo %}
     <a id="github-link"
        class="icon" title="Github Profile" aria-label="Github Profile"
        href="{{ site.github.repo }}">
       {% include svg/github.svg %}
     </a>
-    <a id="github-download-link"
+    <a id="github-linkedin-link"
        class="icon" title="Linkedin Profile" aria-label="Linkedin Profile"
        href="{{ site.linkedin.url }}">
       {% include svg/linkedin.svg %}
     </a>
   {% endif %}
-
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
-    {% include svg/feed.svg %}
-  </a>
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
