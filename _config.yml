@@ -28,8 +28,13 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
+search_page: false
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+github:
+  repo: https://github.com/hishoss
+linkedin:
+  url: https://www.linkedin.com/in/osmanhisham
