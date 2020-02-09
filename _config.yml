@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            "Hisham's Musings"
+title:            "Hisham Osman"
 tagline:          'Hi'
-description:      'Well well well'
+description:      'My Musings'
 url:              https://github.com/hishoss
 baseurl:          '/hishoss.github.io'
                   # the optional subpath of your site, e.g. "/blog"
