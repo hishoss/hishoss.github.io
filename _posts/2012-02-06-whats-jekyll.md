@@ -17,6 +17,8 @@ title: Data Wrangling
 
 ![](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fgilpress%2Ffiles%2F2016%2F03%2FLeast-Enjoyable4-1200x511.jpg "Time spent preparing data")
 
+**Data wrangling tasks**
+
 ![](https://s26597.pcdn.co/wp-content/uploads/2019/01/TRI-Data-Wrangling-1.png "Data wrangling tasks")
 
 **Discovering;**
