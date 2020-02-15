@@ -15,10 +15,9 @@ title: Data Wrangling
 
 **Time spent on preparing data**
 
-!\[\](https://lh4.googleusercontent.com/2pHvFLqFPcpC0P07KIfGpbN9PmrzlriCzHoWfDx-Z0_kRfq0jXyN8iRX0QlcYvr782i13awNTuDhphPU7exYwXsDp6fic2wmUuPIMr85YnDiph44uj8B0dEMHmhM-XcKJi4tzkqqZiE =928px;x395px;)
+![](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fgilpress%2Ffiles%2F2016%2F03%2FLeast-Enjoyable4-1200x511.jpg "Time spent preparing data")
 
-\**  
-The data analysis pipeline**!\[\](https://lh3.googleusercontent.com/xrgaC9tkUQchYd8wx43Q_pyKfc1KaL_rJc-LeQT5j47taXFfKkhxh0CmaxS0O6U0poKv1kwIKrUNX2_IERNIdClQZmskvD_5oDARn3wfZTwybZW0p3pPERXew5drJ4642ismv_wI7V4 "https://www.trifacta.com/data-munging/" =910px;x350px;)
+![](https://s26597.pcdn.co/wp-content/uploads/2019/01/TRI-Data-Wrangling-1.png "Data wrangling tasks")
 
 **Discovering;**
 
