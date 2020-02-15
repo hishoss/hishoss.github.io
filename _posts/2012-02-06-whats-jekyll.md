@@ -15,10 +15,10 @@ title: Data Wrangling
 
 **Time spent on preparing data**
 
-![](https://lh4.googleusercontent.com/2pHvFLqFPcpC0P07KIfGpbN9PmrzlriCzHoWfDx-Z0_kRfq0jXyN8iRX0QlcYvr782i13awNTuDhphPU7exYwXsDp6fic2wmUuPIMr85YnDiph44uj8B0dEMHmhM-XcKJi4tzkqqZiE =928px;x395px;)
+!\[\](https://lh4.googleusercontent.com/2pHvFLqFPcpC0P07KIfGpbN9PmrzlriCzHoWfDx-Z0_kRfq0jXyN8iRX0QlcYvr782i13awNTuDhphPU7exYwXsDp6fic2wmUuPIMr85YnDiph44uj8B0dEMHmhM-XcKJi4tzkqqZiE =928px;x395px;)
 
-**  
-The data analysis pipeline**![](https://lh3.googleusercontent.com/xrgaC9tkUQchYd8wx43Q_pyKfc1KaL_rJc-LeQT5j47taXFfKkhxh0CmaxS0O6U0poKv1kwIKrUNX2_IERNIdClQZmskvD_5oDARn3wfZTwybZW0p3pPERXew5drJ4642ismv_wI7V4 "https://www.trifacta.com/data-munging/" =910px;x350px;)
+\**  
+The data analysis pipeline**!\[\](https://lh3.googleusercontent.com/xrgaC9tkUQchYd8wx43Q_pyKfc1KaL_rJc-LeQT5j47taXFfKkhxh0CmaxS0O6U0poKv1kwIKrUNX2_IERNIdClQZmskvD_5oDARn3wfZTwybZW0p3pPERXew5drJ4642ismv_wI7V4 "https://www.trifacta.com/data-munging/" =910px;x350px;)
 
 **Discovering;**
 
@@ -37,8 +37,8 @@ Actions that **change** the form or schema of the data.
 3. aggregating/pivoting records,
 4. etc
 
-**Cleaning  
-**Actions that **standardize** or **fix irregularities** in a dataset.
+\**Cleaning  
+\**Actions that **standardize** or **fix irregularities** in a dataset.
 
 Addressing:
 
